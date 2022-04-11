@@ -1,6 +1,6 @@
 Hi there :wave: am <h1>Harrison Muema :man_technologist:.</h1>
 
-I am an incipient front-end software developer based in Nairobi,Kenya.
+I am an incipient full-stack software developer based in Nairobi,Kenya.
 
 I enjoy building applications for both androind and the web ranging from back-end api's to highly interactive and responsive front-ends.
 
